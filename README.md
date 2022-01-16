@@ -1,2 +1,2 @@
-# fisica2
-varios links relacionados con temas de fisica2
+# fisica: modelos y ejemplos
+varios links relacionados con temas de fisica
